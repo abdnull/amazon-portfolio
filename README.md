@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Abdullah — Amazon PPC & Listing Optimization Expert
+# 👋 Hi, I’m Abdullah - Amazon PPC & Listing Optimization Expert
 
-💼 **4+ Years Helping Brands Scale on Amazon**  
+💼 **5+ Years Helping Brands Scale on Amazon**  
 🎯 Specialties: Amazon PPC, SEO, Compliance, Full Account Management  
 📍 Based in Multan, Pakistan
 

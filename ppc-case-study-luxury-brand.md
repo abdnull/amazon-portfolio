@@ -36,20 +36,6 @@ The client was struggling with:
 
 ---
 
-## 📊 Results (June–July 2025)
-
-| Metric | Before | After |
-|--------|--------|-------|
-| **Spend** | $4,021.23 | $2,730.68 |
-| **Sales** | $61,474.27 | $40,770.95 |
-| **ACOS** | 6.54% | **6.70%** |
-| **ROAS** | 15.29 | **14.93** |
-
-> 🔥 ROAS remained strong while reducing spend by over $1,200  
-> ✅ Consistently maintained ACOS under 7% for a high-ticket brand
-
----
-
 ## 📌 Summary
 
 I helped this premium brand scale efficiently by refining their ad structure and cutting waste.  
